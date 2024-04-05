@@ -1,0 +1,15 @@
+{
+  "name": "bitfinex-node-blockchain-challenge",
+  "version": "1.0.0",
+  "description": "A simplified P2P distributed exchange using Grenache in Node.js",
+  "main": "index.js",
+  "author": "Victor Chibuike",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/client.js"
+  },
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}
